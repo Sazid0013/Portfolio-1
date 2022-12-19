@@ -1,0 +1,30 @@
+.articleBody {
+    background-color: whitesmoke !important;
+}
+
+.imageIcon {
+    background-color: black;
+}
+
+
+.flexTitle {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-weight: 600;
+}
+
+.flexParagraph {
+    color: black;
+}
+
+.titleMini {
+    color: red;
+}
+
+.titleResult {
+    color: black;
+}
+
+.color {
+    color: red;
+}

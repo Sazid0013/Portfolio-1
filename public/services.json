@@ -1,0 +1,44 @@
+[
+    {
+        "id": "0",
+        "serviceName": "In-Gym Training",
+        "img": "https://images.unsplash.com/photo-1584466977773-e625c37cdd50?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687",
+        "price": 5250,
+        "description": "Personal training has undergone a sea change thanks to Ultimate Performance. My personal training approach is the most effective in the world because of the thousands of people I've trained in my 20 private gyms throughout the world."
+    },
+    {
+        "id": "1",
+        "serviceName": "Online Training",
+        "img": "https://webassets-prod.ultimateperformance.com/uploads/2021/06/02123143/Ultimate-Performance-Online-Accountability4-opt.jpg",
+        "price": 3500,
+        "description": "If you can't get it to one of my gyms, don't worry. My online program uses the same tried and true strategies that have yielded impressive results for tens of thousands of people."
+    },
+    {
+        "id": "2",
+        "serviceName": "Loss The Fat Program",
+        "img": "https://webassets-prod.ultimateperformance.com/uploads/2021/06/16151131/Fat-loss-myths-1200x900-1-1.jpg",
+        "price": 4200,
+        "description": "Ultimate Performance is the world's foremost authority on fat loss, with a proven track record of delivering rapid and lasting results. More than 35,000 kilograms (77,000 lbs) of body fat was lost by my clients of all ages and abilities last year. "
+    },
+    {
+        "id": "3",
+        "serviceName": "Build The Muscle Program",
+        "img": "https://webassets-prod.ultimateperformance.com/uploads/2021/06/16151859/Muscle-build-Header-Kamran.jpg",
+        "price": 7000,
+        "description": "If you want to look like a professional bodybuilder, this is the best and safest way to get there. Thousands of people all over the world have benefited from my muscle growth strategy."
+    },
+    {
+        "id": "4",
+        "serviceName": "Expert Nutrition Guidance",
+        "img": "https://webassets-prod.ultimateperformance.com/uploads/2021/06/16151134/Scientific-fat-loss-1200x900-1.png",
+        "price": 850,
+        "description": "Investing in your health for the long term necessitates a day-to-day nutrition strategy. Numerous clients have seen dramatic health transformations and improved health across the board thanks to my strategy."
+    },
+    {
+        "id": "5",
+        "serviceName": " Transform In 12-Week",
+        "img": "https://webassets-prod.ultimateperformance.com/uploads/2021/09/27133208/How-12-weeks-works-1200x900-v2.jpg",
+        "price": 10000,
+        "description": "All of my 12-week bespoke transformation plans are designed to help you achieve your specific fat reduction or muscle building goals. Despite the fact that it can be more or less."
+    }
+]

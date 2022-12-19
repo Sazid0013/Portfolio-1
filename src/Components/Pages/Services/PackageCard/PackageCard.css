@@ -1,0 +1,64 @@
+.imageRadious {
+    padding: 5px;
+    border-radius: 10px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.cardRadious {
+    background-color: black;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.3);
+}
+
+
+.cardFooter {
+    background-color: unset;
+    border: unset;
+}
+
+.card-body {
+    height: 250px;
+}
+
+.cardTitle {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: red;
+}
+
+.cardDetails {
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.9rem;
+    color: whitesmoke;
+}
+
+.cardPrice {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: red;
+}
+
+
+
+
+
+.startNow {
+    border: 2px solid #333333;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #333333;
+    font-size: 18px;
+    padding: 5px 25px;
+    color: white;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.startNow:hover {
+    color: white;
+    text-decoration: none;
+}

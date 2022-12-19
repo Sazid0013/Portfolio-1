@@ -1,0 +1,15 @@
+.owner {
+    text-decoration: none;
+    color: #ff2b2bfc;
+}
+
+.owner:hover {
+    text-decoration: none;
+    color: #ff2b2bfc;
+    font-size: 18px;
+}
+
+.Links:hover {
+    text-decoration: none;
+    color: #ff2b2bfc !important;
+}
